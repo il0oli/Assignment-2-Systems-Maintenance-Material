@@ -1,0 +1,8 @@
+Package: zack
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer : Zack
+Description: A simple Python script that prints "Zack is Back"
